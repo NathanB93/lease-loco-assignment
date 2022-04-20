@@ -1,6 +1,6 @@
 # lease-loco-assignment
 
-## Instalation instructions -
+## Installation instructions -
 
 In order for the application to function you will need to create an empty MYSQL database named lease_loco.
 
